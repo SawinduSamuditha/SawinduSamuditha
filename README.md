@@ -32,6 +32,7 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
 </p>
 
 ### **Tools & Frameworks**
@@ -56,8 +57,8 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawindu-samuditha/)[https://www.linkedin.com/in/sawindu-samuditha/]  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SawinduSamuditha)[https://github.com/SawinduSamuditha]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawindu-samuditha/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SawinduSamuditha)  
 📧 **Email:** [sawindusamuditha@gmail.com](mailto:sawindusamuditha@gmail.com)
 
 ---
