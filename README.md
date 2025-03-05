@@ -8,8 +8,8 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 
 ## 🔥 About Me
 
-- 🎓 Currently pursuing **Software Engineering**
-- 🌱 Learning **React, React Native, Java/Kotlin, IoT, JavaScript, Flutter, Firebase, and BigQuery**
+- 🎓 Currently pursuing **Software Engineering Undergraduate**
+- 🌱 Learning **Java/Kotlin, IoT, JavaScript, Flutter, Firebase, BigQuery, React and React Native**
 - 🔬 Researching **IoT-based smart tracking school bags for child safety**
 - 💡 Interested in **IoT Development, Mobile Application Development, Data Warehousing, API Development, and AI**
 - 🛠️ Working on **IoT Projects & Mobile Apps**
