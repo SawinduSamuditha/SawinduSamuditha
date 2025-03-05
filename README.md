@@ -10,10 +10,10 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 
 - 🎓 Currently pursuing **Software Engineering Undergraduate**
 - 🌱 Learning **Java/Kotlin, IoT, JavaScript, Flutter, Firebase, BigQuery, React and React Native**
-- 🔬 Researching **[IoT-based smart tracking school bags for child safety](https://github.com/your-repo-link)** for child safety (real-time tracking via GPS/GSM).
+- 🔬 Researching **[IoT-based smart tracking school bags for child safety](https://github.com/SawinduSamuditha/guardian_x)** for child safety (real-time tracking via GPS/GSM).
 - 💡 Interested in **IoT Development, Mobile Application Development, Data Warehousing, API Development, and AI**
 - 🛠️ Working on **IoT Projects & Mobile Apps**
-- 📱 Developed **[Evergreen Mobile App](https://github.com/your-repo-link)**, a system designed to manage the **tea collecting process** and other operations efficiently.
+- 📱 Developed **[Evergreen Mobile App](https://github.com/SawinduSamuditha/Evergreen)**, a system designed to manage the **tea collecting process** and other operations efficiently.
 - 💬 Ask me about **IoT and Mobile Development**
 - 📫 Reach me at: [sawindusamuditha@gmail.com](mailto:sawindusamuditha@gmail.com)
 - 🎯 I aim to contribute to the development of **mobile applications, IoT, and machine learning** while continuously expanding my expertise in advanced technologies.
