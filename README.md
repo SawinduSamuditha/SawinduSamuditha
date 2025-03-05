@@ -102,6 +102,8 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 
 🎯 *"Innovate with purpose, learn relentlessly, and build solutions that matter!"* 🚀
 
+---
+
 [![Profile Views](https://komarev.com/ghpvc/?username=SawinduSamuditha&color=blue&label=Profile%20Views)](https://github.com/SawinduSamuditha)
 
 <!--
