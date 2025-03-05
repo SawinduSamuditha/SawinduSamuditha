@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sawindu Samuditha
 
-### 🚀 A Passionate Software Engineering Student from Sri Lanka
+### 🚀 A Passionate Software Engineering Undergraduate from Sri Lanka
 
 I'm a **Higher National Diploma in Software Engineering** student with a strong interest in **IoT, Mobile App Development, and Data Warehousing**. I love learning new technologies and building innovative projects that solve real-world problems.
 
@@ -11,7 +11,7 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 - 🎓 Currently pursuing **Software Engineering**
 - 🌱 Learning **React, React Native, Java/Kotlin, IoT, JavaScript, Flutter, Firebase, and BigQuery**
 - 🔬 Researching **IoT-based smart tracking school bags for child safety**
-- 💡 Interested in **Data Warehousing, API Development, and AI**
+- 💡 Interested in **IoT Development, Mobile Application Development, Data Warehousing, API Development, and AI**
 - 🛠️ Working on **IoT Projects & Mobile Apps**
 - 📱 Developing **Evergreen Mobile App**, a system designed to manage the **tea collecting process** and other operations efficiently.
 - 💬 Ask me about **IoT, Mobile Development, or BigQuery**
@@ -21,16 +21,28 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 
 ## 🚀 Tech Stack
 
-**Languages & Tools:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)  
+### **Languages**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+</p>
+
+### **Tools & Frameworks**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
@@ -51,6 +63,7 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 ---
 
 🎯 _"Innovate, Learn, and Build!"_ 🚀
+
 
 <!--
 **SawinduSamuditha/SawinduSamuditha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
