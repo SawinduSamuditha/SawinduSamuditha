@@ -56,8 +56,8 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawindu-samuditha/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SawinduSamuditha)  
+**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawindu-samuditha/) 
+**GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SawinduSamuditha) 
 📧 **Email:** [sawindusamuditha@gmail.com](mailto:sawindusamuditha@gmail.com)
 
 ---
