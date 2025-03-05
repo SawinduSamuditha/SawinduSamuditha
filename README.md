@@ -47,7 +47,6 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" width="50" height="50"/>
 </p>
 </p>
 
