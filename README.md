@@ -102,8 +102,6 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SawinduSamuditha&color=blue&label=Profile%20Views)](https://github.com/SawinduSamuditha)
 
----
-
 🎯 _"Innovate, Learn, and Build!"_ 🚀
 <!--
 **SawinduSamuditha/SawinduSamuditha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
