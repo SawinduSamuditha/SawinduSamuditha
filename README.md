@@ -99,21 +99,6 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 
 ---
 
-### **Profile View Count**
-
-<p>
-  <strong>Profile Views: <span id="viewCount">0</span></strong>
-</p>
-
-<script>
-  let viewCount = localStorage.getItem('viewCount') || 0;
-  viewCount++;
-  localStorage.setItem('viewCount', viewCount);
-  document.getElementById('viewCount').textContent = viewCount;
-</script>
-
- ---
-
 🎯 _"Innovate, Learn, and Build!"_ 🚀
 
 
