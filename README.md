@@ -13,7 +13,7 @@ I'm a **Higher National Diploma in Software Engineering** student with a strong 
 - 🔬 Researching **IoT-based smart tracking school bags for child safety**
 - 💡 Interested in **IoT Development, Mobile Application Development, Data Warehousing, API Development, and AI**
 - 🛠️ Working on **IoT Projects & Mobile Apps**
-- 📱 Developing **Evergreen Mobile App**, a system designed to manage the **tea collecting process** and other operations efficiently.
+- 📱 Developed **Evergreen Mobile App**, a system designed to manage the **tea collecting process** and other operations efficiently.
 - 💬 Ask me about **IoT, Mobile Development, or BigQuery**
 - 🎯 I aim to contribute to the development of **mobile applications, IoT, and machine learning** while continuously expanding my expertise in advanced technologies.
 
