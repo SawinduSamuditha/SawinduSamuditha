@@ -2,7 +2,7 @@
 
 ### 🚀 A Passionate Software Engineering Undergraduate from Sri Lanka
 
-I'm a **Higher National Diploma in Software Engineering** student with a strong interest in **Mobile App Development, Web application Development , IoT , Front-end development ,and Data Warehousing**. I love learning new technologies and building innovative projects that solve real-world problems.
+I'm a **Higher National Diploma in Software Engineering** student with a strong interest in **Mobile App Development, Web application Development , IoT , Front-end development , Machine learning and Data Warehousing**. I love learning new technologies and building innovative projects that solve real-world problems.
 
 ---
 
